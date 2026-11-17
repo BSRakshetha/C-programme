@@ -35,3 +35,28 @@ void main()
   printf("\n----x----x----x----x----x----x----x----x----x-----");
   getch();
 }
+
+/*
+Enter Register Number : 082
+Enter Name of student : Rakshetha
+Enter number of subject : 5
+Enter marks in sub 1 : 94
+Enter marks in sub 2 : 92
+Enter marks in sub 3 : 99
+Enter marks in sub 4 : 95
+Enter marks in sub 5 : 96
+
+================STUDENT MARK SHEET=================
+Register Number        : 82
+Student Name           : Rakshetha
+Mark in Subject 1     : 94.00
+Mark in Subject 2     : 92.00
+Mark in Subject 3     : 99.00
+Mark in Subject 4     : 95.00
+Mark in Subject 5     : 96.00
+Maximum Marks per sub  : 100
+--------------------------------------------------
+Total Marks    : 476.00
+Average Marks  : 95.20
+----x----x----x----x----x----x----x----x----x-----
+*/
